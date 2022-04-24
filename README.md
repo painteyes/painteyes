@@ -40,6 +40,6 @@
 
 <img src="https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
 
-## Connect with me
+<!-- ## Connect with me
 
-<a href="https://www.linkedin.com/in/occhipinti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/occhipinti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> -->
