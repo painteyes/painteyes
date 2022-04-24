@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with Blockchain technologies
 - 🥅 2022 Goals: Programming on major blockchains, creating smart contracts and building blockchain networks 
 
-## Languages and Tools
+## Languages and tools
 
 <div style="margin-top: 20px">
     <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
