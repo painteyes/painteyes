@@ -2,7 +2,7 @@
     <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </p>
 
-## Rapid fire
+## Glad to see you here!
 
 - 🔭 I’m currently working on [Deliveroo](https://github.com/painteyes/laravel-vue-deliveroo)  
 - 🌱 I’m currently learning Solidity 
