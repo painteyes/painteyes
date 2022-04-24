@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javaScript&logoColor=222"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=whitee"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white"/>&nbsp;&nbsp;
@@ -34,11 +34,11 @@
 
 ## I'm currently learning / improving on:
 
-<img src="https://img.shields.io/badge/-SOLIDITY-black?style=for-the-badge"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-SOLIDITY-black"/>&nbsp;&nbsp;
 
 ## Will start studying soon:
 
-<img src="https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&&logoColor=white"/>&nbsp;&nbsp;
 
 <!-- ## Connect with me
 
