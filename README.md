@@ -1,6 +1,6 @@
-<!-- <p align="center">
+<p align="center">
     <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</p> -->
+</p>
 
 # Welcome to my GitHub!
 
