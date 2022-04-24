@@ -14,8 +14,8 @@
 <div style="margin-top: 20px">
     <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javaScript&logoColor=222&style=for-the-badge"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
