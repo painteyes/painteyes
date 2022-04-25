@@ -3,15 +3,13 @@
 </p> -->
 
 ## Welcome to my Github
-Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising technologies, like Blockchain.
+Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising technologies.
 
 - 🔭 I’m currently working on [Deliveroo](https://github.com/painteyes/laravel-vue-deliveroo)  
 - 🌱 I’m currently learning Solidity 
 - 🎯 Next goals: programming on major blockchains, creating smart contracts and building blockchain networks 
-<!-- - 🤔 I’m looking for help with Blockchain technologies -->
 
 ## Languages and tools
-
 <div style="margin-top: 20px">
     <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white"/>&nbsp;&nbsp;
@@ -34,13 +32,10 @@ Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising t
 </div> -->
 
 ## I'm currently learning / improving on:
-
 <img src="https://img.shields.io/badge/-SOLIDITY-black"/>&nbsp;&nbsp;
 
 ## Will start studying soon:
-
 <img src="https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&&logoColor=white"/>&nbsp;&nbsp;
 
 <!-- ## Connect with me
-
-<a href="https://www.linkedin.com/in/occhipinti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> -->
+<a href="https://www.linkedin.com/in/occhipinti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn"/></a> -->
