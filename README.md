@@ -2,7 +2,8 @@
     <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </p> -->
 
-# Hi 👋, I'm Andrea!
+## Welcome to my Github
+Hi 👋, I'm Andrea, a passionate full stack developer from Italy.
 
 - 🔭 I’m currently working on [Deliveroo](https://github.com/painteyes/laravel-vue-deliveroo)  
 - 🌱 I’m currently learning Solidity 
