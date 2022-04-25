@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Deliveroo](https://github.com/painteyes/laravel-vue-deliveroo)  
 - 🌱 I’m currently learning Solidity 
-- 🎯 Next Goals: Programming on major blockchains, creating smart contracts and building blockchain networks 
+- 🎯 Next goals: Programming on major blockchains, creating smart contracts and building blockchain networks 
 <!-- - 🤔 I’m looking for help with Blockchain technologies -->
 
 ## Languages and tools
