@@ -42,6 +42,6 @@ Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising t
 </div>   
 
   
-        
+<!--         
 ### Connect with me
-<a href="https://www.linkedin.com/in/occhipinti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" style="width: 30px" /></a> 
+<a href="https://www.linkedin.com/in/occhipinti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" style="width: 30px" /></a>  -->
