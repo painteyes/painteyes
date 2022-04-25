@@ -37,5 +37,5 @@ Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising t
 ## Will start studying soon:
 <img src="https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&&logoColor=white"/>&nbsp;&nbsp;
 
-<!-- ## Connect with me
-<a href="https://www.linkedin.com/in/occhipinti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn"/></a> -->
+## Connect with me
+<a href="https://www.linkedin.com/in/occhipinti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn"/></a> 
