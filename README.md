@@ -3,7 +3,7 @@
 </p> -->
 
 ## Welcome to my Github
-Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising technologies.
+Hi 👋, I'm Andrea, a Full Stack developer interested in promising technologies.
 
 - 🔭 I’m currently working on [Deliveroo](https://github.com/painteyes/laravel-vue-deliveroo)  
 - 🌱 I’m currently learning Solidity 
