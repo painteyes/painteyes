@@ -46,7 +46,7 @@ Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising t
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white"/>&nbsp;&nbsp;
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -55,20 +55,6 @@ Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising t
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white"/>&nbsp;&nbsp;
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
 </td></tr></table>  
