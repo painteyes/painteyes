@@ -2,9 +2,9 @@
     <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </p>
 
-## Glad to see you here !
+# Glad to see you here !
 
-<!-- - 🔭 I’m currently working on [Deliveroo](https://github.com/painteyes/laravel-vue-deliveroo)   -->
+- 🔭 I’m currently working on [Deliveroo](https://github.com/painteyes/laravel-vue-deliveroo)  
 - 🌱 I’m currently learning Solidity 
 - 🤔 I’m looking for help with Blockchain technologies
 - 🥅 Goals: Programming on major blockchains, creating smart contracts and building blockchain networks 
