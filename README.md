@@ -32,14 +32,15 @@ Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising t
 </div> -->
 
 
-<div style="margin-bottom: 20px">
-
-I'm currently learning / improving on:
-<img src="https://img.shields.io/badge/-SOLIDITY-black"/>&nbsp;&nbsp;
-
-Will start studying soon:
-<img src="https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&&logoColor=white"/>&nbsp;&nbsp;
-    
+<div style="display: flex">
+    <div>
+        <h2>I'm currently learning / improving on:</h2>
+        <img src="https://img.shields.io/badge/-SOLIDITY-black"/>&nbsp;&nbsp;
+    </div>
+    <div>
+        <h2>Will start studying soon:</h2>
+        <img src="https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&&logoColor=white"/>&nbsp;&nbsp;
+    </div>   
 </div>
   
         
