@@ -3,7 +3,7 @@
 </p> -->
 
 ## Welcome to my Github
-Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising technologies like Blockchain.
+Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising technologies, like Blockchain.
 
 - 🔭 I’m currently working on [Deliveroo](https://github.com/painteyes/laravel-vue-deliveroo)  
 - 🌱 I’m currently learning Solidity 
