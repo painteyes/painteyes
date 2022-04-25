@@ -32,7 +32,7 @@ Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising t
 </div> -->
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
