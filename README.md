@@ -37,7 +37,7 @@ Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising t
 
 
 ### Frontend  
-<div align="center">  
+<div >  
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javaScript&logoColor=222"/>&nbsp;&nbsp;
@@ -51,7 +51,7 @@ Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising t
 
 
 ### Backend  
-<div align="center">  
+<div >  
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white"/>&nbsp;&nbsp;
