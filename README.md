@@ -32,7 +32,7 @@ Hi 👋, I'm Andrea, a passionate Full Stack developer interested in promising t
 </div> -->
 
 
-<div>
+<div style="display: flex">>
     <div style="width: 50%">
         <h2>I'm currently learning / improving on:</h2>
         <img src="https://img.shields.io/badge/-SOLIDITY-black"/>&nbsp;&nbsp;
